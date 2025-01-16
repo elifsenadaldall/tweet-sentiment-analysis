@@ -1,6 +1,6 @@
 # Sentiment Analysis on Tweets Using Logistic Regression, LSTM, and BERT
 
-## Elif Sena Daldal
+## Author: Elif Sena Daldal
 
 ---
 
@@ -39,6 +39,7 @@ Sentiment analysis is a key task in natural language processing (NLP) with appli
   - **0**: Negative
   - **2**: Neutral
   - **4**: Positive
+- **Download Link**: [Sentiment140 Dataset on Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 ---
 
